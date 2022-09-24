@@ -1,0 +1,44 @@
+
+/*body */
+
+body {background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* navbar */
+.navbar {
+    background-color: transparent !important;
+    
+
+}
+
+/* quienes somos */
+.icono-quienessomos{  
+    
+    background-color: #0dcaf0;
+    color: white;
+    display: block;
+}
+
+
+/* destacados */
+
+
+.card-body{ 
+    
+    color: white;
+    background-color: #0dcaf0;
+}
+
+
+/* footer */
+
+.icon-footer{
+    color: white;
+}
+
+
+
+
+
